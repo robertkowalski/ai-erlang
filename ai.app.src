@@ -1,0 +1,10 @@
+{application, ai,
+ [
+  {description,
+    "Find abandoned issues"},
+  {vsn, "1.0"},
+  {applications,
+    [kernel,stdlib,jiffy]},
+  {mod, {ai, []}}
+ ]
+}.

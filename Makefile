@@ -1,0 +1,2 @@
+build:
+	erlc ai.erl​
