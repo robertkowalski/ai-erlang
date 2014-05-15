@@ -1,6 +1,6 @@
 ```
 $ ./rebar get-deps
-$ ./rebar compile`
+$ ./rebar compile
 $ chmod +x ai.erl
-$ AI_GITHUB_USERNAME=robertkowalski ./ai.erl npm/npm`
+$ AI_GITHUB_USERNAME=robertkowalski ./ai.erl npm/npm
 ```
